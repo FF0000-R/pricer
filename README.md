@@ -33,7 +33,7 @@ The precise model we will be looking at has a 00 x 00 mm screen, it is a black a
 Here are images of the pcb/display assembly, the whole thing is about 00 mm long by 00 mm wide.  
 (*detailed pictures of the pcb and back of the display are below*)
 
-![Photo Documentation](/Documentation/side-A.JPG)
-![Photo Documentation](/Documentation/side-B.JPG)
+![Photo Documentation](/docs/side-A.JPG)
+![Photo Documentation](/docs/side-B.JPG)
 
 Getting your hands on one of them isn't so hard, you can directly ask where you shop, to see if they 
